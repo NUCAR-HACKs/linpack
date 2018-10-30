@@ -67,7 +67,7 @@ ARCH         = Linux_ATHLON_CBLAS
 # - HPL Directory Structure / HPL library ------------------------------
 # ----------------------------------------------------------------------
 #
-TOPdir       = /app/hpl
+TOPdir       = $(HOME)/hpl
 INCdir       = $(TOPdir)/include
 BINdir       = $(TOPdir)/bin/$(ARCH)
 LIBdir       = $(TOPdir)/lib/$(ARCH)
