@@ -1,1 +1,1 @@
-/app/hpl/linpack/Make.Linux_ATHLON_CBLAS
+/root/app/hpl/linpack/Make.Linux_ATHLON_CBLAS
