@@ -1,1 +1,1 @@
-/home/toyiny/hpl/Make.Linux_ATHLON_CBLAS
+/app/hpl/linpack/Make.Linux_ATHLON_CBLAS
